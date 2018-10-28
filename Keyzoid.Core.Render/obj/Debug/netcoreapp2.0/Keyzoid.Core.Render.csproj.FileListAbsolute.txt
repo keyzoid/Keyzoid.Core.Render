@@ -1,0 +1,12 @@
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\bin\Debug\netcoreapp2.0\Keyzoid.Core.Render.deps.json
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\bin\Debug\netcoreapp2.0\Keyzoid.Core.Render.runtimeconfig.json
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\bin\Debug\netcoreapp2.0\Keyzoid.Core.Render.runtimeconfig.dev.json
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\bin\Debug\netcoreapp2.0\Keyzoid.Core.Render.dll
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\obj\Debug\netcoreapp2.0\Keyzoid.Core.Render.csprojResolveAssemblyReference.cache
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\obj\Debug\netcoreapp2.0\Keyzoid.Core.Render.csproj.CoreCompileInputs.cache
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\obj\Debug\netcoreapp2.0\Keyzoid.Core.Render.AssemblyInfoInputs.cache
+c:\users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\obj\Debug\netcoreapp2.0\Keyzoid.Core.Render.AssemblyInfo.cs
+C:\Users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\bin\Debug\netcoreapp2.0\Keyzoid.Core.Render.pdb
+C:\Users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\obj\Debug\netcoreapp2.0\Keyzoid.Core.Render.dll
+C:\Users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\obj\Debug\netcoreapp2.0\Keyzoid.Core.Render.pdb
+C:\Users\j\source\repos\Keyzoid.Core.Render\Keyzoid.Core.Render\bin\Debug\netcoreapp2.0\appsettings.json
